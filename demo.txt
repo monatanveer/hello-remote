@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is B2E8-7079
+
+ Directory of C:\Users\Momina Tanveer\hello-remote
+
+21/07/2017  21:44    <DIR>          .
+21/07/2017  21:44    <DIR>          ..
+21/07/2017  21:44                 0 demo.txt
+21/07/2017  21:35                25 README.md
+               2 File(s)             25 bytes
+               2 Dir(s)  42,689,851,392 bytes free
